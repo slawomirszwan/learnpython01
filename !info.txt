@@ -1,1 +1,4 @@
 xxx
+https://github.com/codecraftpro/angular2-sample-code/blob/master/2.es6-typescript/12.modules/utils.ts
+https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/rxjs-and-angular/
+http://plnkr.co/
